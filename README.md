@@ -20,7 +20,7 @@ Kaggle Credit Card Fraud Detection dataset (European transactions).
 
 ## 🏆 Result
 
-Best ROC-AUC: XX (replace with your score)
+Best ROC-AUC: 0.99
 
 ## 🛠️ Tech Stack
 
@@ -34,5 +34,6 @@ Download from Kaggle:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 Place the CSV file in the project folder before running the notebook.
+
 
 
