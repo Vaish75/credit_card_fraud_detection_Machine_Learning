@@ -26,4 +26,13 @@ Best ROC-AUC: XX (replace with your score)
 
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
-## ▶️ How to Run
+## Dataset
+
+The dataset is too large for GitHub upload.
+
+Download from Kaggle:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Place the CSV file in the project folder before running the notebook.
+
+
